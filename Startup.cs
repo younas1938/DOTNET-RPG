@@ -17,6 +17,7 @@ namespace DOTNET_RPG
     {
         public Startup(IConfiguration configuration)
         {
+            Console.WriteLine(  );
             Configuration = configuration;
         }
 
